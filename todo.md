@@ -1,7 +1,3 @@
-# Initialization
-TODO Sass
-TODO Github
-
 # System
 TODO Account system
 TODO Dashboard system
