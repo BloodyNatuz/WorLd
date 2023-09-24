@@ -1,0 +1,17 @@
+@import 'base/colors';
+@import 'base/typo';
+
+@import 'components/buttons';
+
+@import 'layout/navigation';
+
+@import 'pages/chat';
+@import 'pages/home';
+@import 'pages/login';
+@import 'pages/profile';
+@import 'pages/signup';
+
+*{
+    padding: 0;
+    margin: 0;
+}

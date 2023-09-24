@@ -11,5 +11,5 @@ TODO Chat system
 TODO Home page
 TODO World chat page
 TODO Login page
-TODO Sign in page
+TODO Sign up page
 TODO Account page
