@@ -1,0 +1,27 @@
+.primary-btn{
+    text-decoration: none;
+    color: $main-color;
+    background-color: $secondary-color;
+    border: 1px solid $main-color;
+    border-radius: 50px;
+    padding: .75em 2em;
+    transition: all .3s ease;
+}
+
+.primary-btn:hover{
+    color: $secondary-color;
+    background-color: $main-color;
+    border: 1px solid $secondary-color;
+}
+
+// SECONDARY BUTTON
+
+.tertiary-btn{
+    color: $secondary-color;
+    opacity: .7;
+    transition: all .3s ease;
+}
+
+.tertiary-btn:hover{
+    opacity: 1;
+}
